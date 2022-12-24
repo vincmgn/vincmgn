@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vincentmagnien">Linkedin</a>
 </p>
  
-<p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lyon, France.</b></p>
+<p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Lyon, France.</p>
 
 ### About me
 
