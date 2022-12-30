@@ -17,4 +17,4 @@
 🚧In Progress🚧
 
 ### GitHub Info
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=merko)
