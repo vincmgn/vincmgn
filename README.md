@@ -7,16 +7,19 @@
  
 <p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Lyon, France.</p>
 
-<br/>### About me
+<br/>
+### About me
 
 * 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com) <br/>
 * 🔖 Discover my [Curriculum Vitae](#)<br/>
 * 📧 Contact me [here](#)<br/>
 
-<br/>### Languages and Tools
+<br/>
+### Languages and Tools
 🚧In Progress🚧
 
-<br/>### GitHub Info
+<br/>
+### GitHub Info
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincmgn&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=ayu-mirage)
 
