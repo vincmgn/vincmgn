@@ -11,7 +11,7 @@
 
 * 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com) <br/>
 * 🔖 Discover my [Curriculum Vitae](#)<br/>
-* 📫 Contact me on [Discord](#)<br/>
+* 📫 Contact me [here](#)<br/>
 
 ### My skills
 🚧In Progress🚧
