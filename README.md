@@ -13,5 +13,8 @@
 * 🔖 Discover my [Curriculum Vitae](#)<br/>
 * 📧 Contact me [here](#)<br/>
 
-### My skills
+### Languages and Tools
 🚧In Progress🚧
+
+### GitHub Info
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn)](https://github.com/anuraghazra/github-readme-stats)
