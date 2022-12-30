@@ -17,8 +17,4 @@
 🚧In Progress🚧
 
 ### GitHub Info
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn)](https://github.com/anuraghazra/github-readme-stats)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&hide=contribs,prs)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&count_private=true)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=dark)
