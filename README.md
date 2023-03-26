@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
 <p align="center">
-  <a href="#">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/vincentmagnien">Linkedin</a>
+  <a href="#" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vincentmagnien" target="_blank">Linkedin</a>
 </p>
  
 <p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Lyon, France.</p>
 
 ### About me
-* 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com) <br/>
+* 💼 Currently studying at <a href="https://www.ynov.com" target="_blank">Lyon YNOV Campus</a><br/>
 * 🔖 Discover my [Curriculum Vitae](#)<br/>
 * 📧 Contact me [here](#)<br/>
 
