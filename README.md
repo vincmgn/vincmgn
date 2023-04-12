@@ -8,12 +8,12 @@
 > <p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Lyon, France.</p>
 <br/>
 
-## About me
+### About me
 * 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com)<br/>
 * 🔖 Discover my <a href="/assets/CV - Vincent MAGNIEN.pdf" download="CV - Vincent MAGNIEN.pdf">Curriculum Vitae</a><br/>
 * 📧 Contact me [here](mailto:vincentmagnienpro@gmail.com?subject=[GitHub]%20-%20Object) <br/><br/>
 
-## Languages and Tools
+### Languages and Tools
 <img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -24,7 +24,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <br/><br/>
 
-## GitHub Info
+### GitHub Info
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincmgn&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=ayu-mirage)
 
