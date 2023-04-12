@@ -3,16 +3,17 @@
 <p align="center">
   <a href="#" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/vincentmagnien" target="_blank">Linkedin</a>
-</p>
+</p><br/>
  
-<p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Lyon, France.</p>
+> <p>➜ Welcome to my page!  I'm Vincent, 💻 IT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> Lyon, France.</p>
+<br/>
 
-### About me
+## About me
 * 💼 Currently studying at <a href="https://www.ynov.com" target="_blank">Lyon YNOV Campus</a><br/>
 * 🔖 Discover my [Curriculum Vitae](#)<br/>
-* 📧 Contact me [here](#)<br/>
+* 📧 Contact me [here](#)<br/><br/>
 
-### Languages and Tools
+## Languages and Tools
 <img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -21,9 +22,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JetBrains" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<br/>
+<br/><br/>
 
-### GitHub Info
+## GitHub Info
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincmgn&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=ayu-mirage)
 
