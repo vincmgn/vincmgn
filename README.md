@@ -10,7 +10,7 @@
 
 ## About me
 * 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com)<br/>
-* 🔖 Discover my <a href="/assets/CV - Vincent MAGNIEN.pdf" download>Curriculum Vitae</a><br/>
+* 🔖 Discover my <a href="/assets/CV - Vincent MAGNIEN.pdf" download="CV - Vincent MAGNIEN.pdf">Curriculum Vitae</a><br/>
 * 📧 Contact me [here](mailto:vincentmagnienpro@gmail.com?subject=[GitHub]%20-%20Object) <br/><br/>
 
 ## Languages and Tools
@@ -25,6 +25,6 @@
 <br/><br/>
 
 ## GitHub Info
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincmgn&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincmgn&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincmgn&show_icons=true&theme=ayu-mirage)
 
