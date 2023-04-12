@@ -10,7 +10,7 @@
 
 ## About me
 * 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com)<br/>
-* 🔖 Discover my [Curriculum Vitae](url)<br/>
+* 🔖 Discover my [Curriculum Vitae](/assets/CV - Vincent MAGNIEN)<br/>
 * 📧 Contact me [here](mailto:vincentmagnienpro@gmail.com?subject=[GitHub]%20-%20Object)<br/><br/>
 
 ## Languages and Tools
