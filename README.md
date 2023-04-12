@@ -9,9 +9,9 @@
 <br/>
 
 ## About me
-* 💼 Currently studying at <a href="https://www.ynov.com" target="_blank">Lyon YNOV Campus</a><br/>
+* 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com)<br/>
 * 🔖 Discover my [Curriculum Vitae](#)<br/>
-* 📧 Contact me [here](#)<br/><br/>
+* 📧 Contact me [here](mailto:vincentmagnienpro@gmail.com?subject=[GitHub]%20Object)<br/><br/>
 
 ## Languages and Tools
 <img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
