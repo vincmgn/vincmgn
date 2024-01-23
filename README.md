@@ -9,11 +9,13 @@
 <br/>
 
 ### About me
-* 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com)<br/>
-* 🔖 Discover my <a href="/assets/CV - Vincent MAGNIEN.pdf" download="CV - Vincent MAGNIEN.pdf">Curriculum Vitae</a><br/>
-* 📧 Contact me [here](mailto:vincentmagnienpro@gmail.com?subject=[GitHub]%20-%20Object) <br/><br/>
+
+- 💼 Currently studying at [Lyon YNOV Campus](https://www.ynov.com)<br/>
+- 🔖 Discover my <a href="/assets/CV Vincent MAGNIEN.pdf" download="CV - Vincent MAGNIEN.pdf">Curriculum Vitae</a><br/>
+- 📧 Contact me [here](mailto:vincentmagnienpro@gmail.com?subject=[GitHub]%20-%20Object) <br/><br/>
 
 ### Languages and Tools
+
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
@@ -21,8 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 </p>
 <p align="left"> 
@@ -46,5 +47,5 @@
 <br/>
 
 ### Code Stats
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincmgn\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincmgn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
