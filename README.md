@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, Nice to see you 👋 </h1>
 
 <p align="center">
-  <a href="#" target="_blank">Portfolio</a> •
+  <a href="https://www.vincentmagnien.com/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/vincentmagnien" target="_blank">Linkedin</a>
 </p><br/>
  
