@@ -46,4 +46,4 @@
 
 ### Code Stats
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vincmgn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api?username=vincmgn)](https://github.com/anuraghazra/github-readme-stats)
