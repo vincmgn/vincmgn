@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=vincmgn&layout=compact&langs_count=5
+          options: username=vincmgn&layout=compact&langs_count=10
           path: profile/wakatime.svg
           token: ${{ secrets.WAKATIME_API_KEY }}
 
