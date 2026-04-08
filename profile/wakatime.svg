@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="163.12199999999999"
+            width="162.75"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="163.12199999999999"
+            x="162.75"
             y="0"
-            width="79.5615"
+            width="79.887"
             height="8"
             fill="#3178c6"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="242.68349999999998"
+            x="242.637"
             y="0"
-            width="69.2385"
+            width="69.1455"
             height="8"
             fill="#4F5D95"
           />
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="311.92199999999997"
+            x="311.7825"
             y="0"
             width="57.799499999999995"
             height="8"
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="369.7215"
+            x="369.582"
             y="0"
-            width="23.3895"
+            width="23.342999999999996"
             height="8"
             fill="#178600"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="393.111"
+            x="392.925"
             y="0"
-            width="19.53"
+            width="19.483500000000003"
             height="8"
             fill="#00B4AB"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="412.64099999999996"
+            x="412.4085"
             y="0"
-            width="17.762999999999998"
+            width="17.67"
             height="8"
             fill="#00ADD8"
           />
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="430.40399999999994"
+            x="430.0785"
             y="0"
-            width="12.741000000000001"
+            width="12.833999999999998"
             height="8"
             fill="#292929"
           />
@@ -207,9 +207,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="443.1449999999999"
+            x="442.9125"
             y="0"
-            width="12.648000000000001"
+            width="12.601500000000001"
             height="8"
             fill="#858585"
           />
@@ -217,7 +217,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="455.79299999999995"
+            x="455.514"
             y="0"
             width="10.648499999999999"
             height="8"
@@ -235,7 +235,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 216 hrs 4 mins
+        TypeScript - 217 hrs 24 mins
       </text>
     </g>
   
@@ -249,7 +249,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 156 hrs 55 mins
+        JavaScript - 157 hrs 14 mins
       </text>
     </g>
   
@@ -277,14 +277,14 @@
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 34 hrs 31 mins
+        JSON - 34 hrs 57 mins
       </text>
     </g>
   
     <g transform="translate(25, 125)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 34 hrs 19 mins
+        Bash - 34 hrs 20 mins
       </text>
     </g>
   
